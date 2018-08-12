@@ -1,0 +1,2 @@
+javac -cp ./classes/ -d ./classes/ src/edu.bivgroup/pkg1/Container.java  src/edu.bivgroup/pkg2/HelloWorld.java
+java -cp ./classes/ pkg2.HelloWorld

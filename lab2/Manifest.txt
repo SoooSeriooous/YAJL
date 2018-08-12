@@ -1,0 +1,4 @@
+Name: edu.bivgroup/pkg1
+Sealed: true
+Main-Class: edu.bivgroup.pkg2.HelloWorld
+

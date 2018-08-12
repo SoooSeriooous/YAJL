@@ -1,0 +1,3 @@
+jar cvmf Manifest.txt Container.jar -C ./classes pkg1
+javac -cp Container.jar -d ./classes/ src/edu.bivgroup/pkg2/HelloWorld.java
+java -cp ./classes/ pkg2.HelloWorld -jar Container.jarj
